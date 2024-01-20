@@ -1,0 +1,18 @@
+[
+  {
+    "model": "app1.Student",
+    "pk": 1,
+    "fields": {
+        "name": "ajay",
+        "branch": "mechanical"
+    }
+  },
+  {
+    "model": "app1.Student",
+    "pk": 2,
+    "fields": {
+        "name": "mangesh",
+        "branch": "electrical"
+    }
+  }
+]
